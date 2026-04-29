@@ -18,3 +18,8 @@ A Python-based automation tool designed to streamline the process of filtering, 
 *   Pandas
 *   Tkinter
 *   Pyperclip
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
